@@ -22,12 +22,13 @@ font-family: 'Source Sans Pro', sans-serif;
 hr{
     border-style: none;
     border-top-style: dotted;
-    border-color: grey;
-    border-width: 5px;
+    border-color: rgb(156, 152, 152);
+    border-width: 7px;
     width: 5%;
   }
 .rose{
    border-radius: 50%;
+   margin-top: 30px;
 }
 
 .copyright{
@@ -62,7 +63,7 @@ a{
   background: -webkit-gradient(linear, left top, left bottom, from(#83EEE3), to(#74BACF));
   background: -moz-linear-gradient(top,  #83EEE3,  #74BACF);
   text-decoration: none;
-  margin-bottom: 40px;
+  margin-top: 30px;
 }
 .tbtn:hover {
   color: #EBEBE8;
